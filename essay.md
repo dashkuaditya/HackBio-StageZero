@@ -18,7 +18,7 @@ In essence, RNA-seq transformed molecular biology by providing a high-resolution
 
 
 
-1. **Bulk RNA Sequencing**
+2. **Bulk RNA Sequencing**
 
 Bulk RNA sequencing (bulk RNA-seq) is a widely used transcriptomic technique that measures the average gene expression across a mixed population of cells derived from a tissue or cell sample. It defines the transcriptome profile by quantifying RNA molecules extracted from the entire sample without discriminating between different cell types within that population[6]. A review by Hegenbarth et al. (2022) discusses how bulk RNA-seq captures averaged gene expression profiles from tissue samples, covering gene expression changes in cardiac tissues but noting that it masks cellular heterogeneity intrinsic to complex tissues [5]. This means that since RNA is isolated from a heterogeneous mixture of cells, the resulting data reflect an aggregate signal representing the dominant cell types and states, masking individual cell variability. This averaging approach is suitable for investigating overall molecular changes and gene expression patterns within tissues or complex cell populations. Therefore, this approach is used to identify different sample conditions [6].
 
@@ -30,7 +30,7 @@ The improvement in bulk rna sequencing involves integrated bulk and single-cell 
 
 In conclusion, bulk RNA sequencing remains a fundamental and widely used transcriptomics tool for tissue-level gene expression profiling, especially when cost and simplicity are prioritized. However, its limitations in cellular resolution have driven the development of complementary technologies like single-cell and spatial transcriptomics for more detailed molecular dissection at the cellular level.
 
-1. **Single Cell RNA Sequencing**
+3. **Single Cell RNA Sequencing**
 
 Single – cell RNA sequencing is an advanced approach for the transcriptomic analysis where the RNA molecules from a single cell of the population are isolated and sequenced using the next generation sequencing techniques. This will enable the researchers to visualize and analyze the critical functionalities and behaviors of the cell at molecular level and to differentiate between the cells of the same population. The transcriptome of a cell can reveal the state and identity of that cell in the given condition and time since RNA acts as cell’s regulatory molecules, messengers and essential component in housekeeping genes (12).The pioneering techniques to analyze transcriptomes at single cell level were relied on Fluorescent microscopic techniques which limited to only few genes (12). The emergence of Single-cell RNA sequencing was after the advancement made in probe dependent single-cell qPCR where the gene expression analysis is performed on single-cell (11). The transcriptomes developed by scRNA sequencing were first published by *Tang et al* in 2009. The probe independent scRNA sequencing involves the following stages starting with isolation single cells, cell lysis, conversion of scRNA to cDNA by reverse transcription, bar-coding of DNA, Library preparation - amplification of cDNA through PCR, sequencing and data analysis(12).
 
@@ -38,7 +38,7 @@ Single – cell RNA sequencing is an advanced approach for the transcriptomic an
 
 By far, to study and analyze the single-cell gene expression qRT- PCR is preferred, but it has some limitations like confinement to specific set of genes chosen by the experimentalists while microarray enables the transcriptome profiling, the requirement of probes and huge starting amounts of RNA make it very expensive. Therefore, scRNA sequencing best replaces the pioneering techniques to study transcriptomes at the single-cell level.
 
-1. **Applications**
+4. **Applications**
 
 ***Oncogenic analysis**:* The application of scRNA sequencing in tumor has revealed the existence of transcriptional heterogeneity in cancer cells, for example, in melanoma the scRNA sequencing of CD45+ and CD45- cells is having different T cell exhaustion programs, a significant finding that is helpful for proper immunotherapy treatments (13).
 
@@ -551,4 +551,5 @@ In essence, scRNA-seq has given life to the idea that “one cell can tell a tho
 
 \
 \
+
 
