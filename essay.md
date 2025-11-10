@@ -38,7 +38,7 @@ Single – cell RNA sequencing is an advanced approach for the transcriptomic an
 
 By far, to study and analyze the single-cell gene expression qRT- PCR is preferred, but it has some limitations like confinement to specific set of genes chosen by the experimentalists while microarray enables the transcriptome profiling, the requirement of probes and huge starting amounts of RNA make it very expensive. Therefore, scRNA sequencing best replaces the pioneering techniques to study transcriptomes at the single-cell level.
 
-4. **Applications**
+**Applications**
 
 ***Oncogenic analysis**:* The application of scRNA sequencing in tumor has revealed the existence of transcriptional heterogeneity in cancer cells, for example, in melanoma the scRNA sequencing of CD45+ and CD45- cells is having different T cell exhaustion programs, a significant finding that is helpful for proper immunotherapy treatments (13).
 
@@ -48,7 +48,7 @@ By far, to study and analyze the single-cell gene expression qRT- PCR is preferr
 
 ***Stem cell differentiation*:** Differentiation of stem cells form the basis of organ development and it starts from a single cell; hence analysis of stem cells at single cell level will help to follow the trajectory of molecular markers at different stages of organ development. In the development of murine lung, previously unknown lineage specific markers in different subsets have been identified. Similarly, the development of skeletal muscles from primary myoblasts have shown the requirement of eight transcriptional factors to promote the expression of more than 1000 genes during the development (12).
 
-**Bulk sequencing vs Single cell RNA sequencing**
+4. **Bulk sequencing vs Single cell RNA sequencing**
 
 Bulk RNA sequencing: The conventional bulk RNA sequencing is the replacement of microarray technique in the late 2000s before the advancement of scRNA technique. Bulk sequencing of RNA is profiling the transcriptomes from the bulk population of cells; it will give the measurement of average transcript of the population (13). But, it fails to provide subtle and biologically significant differences between cells of the same population (12). The bulk sequencing will not be able to detect the precise characterization of the subsets population of the cells with respect to its microenvironment (14).
 
@@ -551,5 +551,6 @@ In essence, scRNA-seq has given life to the idea that “one cell can tell a tho
 
 \
 \
+
 
 
